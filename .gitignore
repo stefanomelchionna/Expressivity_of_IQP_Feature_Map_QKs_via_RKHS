@@ -1,0 +1,14 @@
+# generated data and kernels (large, regenerable)
+Simulated_Data/
+# generated figures
+images/
+# python
+__pycache__/
+*.pyc
+.venv/
+# local files
+.DS_Store
+.vscode/
+Arxiv_paper.pdf
+slurm*
+*out*.txt

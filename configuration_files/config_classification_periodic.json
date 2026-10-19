@@ -1,0 +1,10 @@
+{
+    "Data_dir": "Simulated_Data/Classification_periodic",
+    "n_samples_train": [250, 500, 1000],
+    "n_samples_test": 500,
+    "n_qubits": [2, 4, 6],
+    "oscillations": [1, 2, 4, 6, 8],
+    "n_repeats": [1, 2, 3],
+    "entanglement": ["linear", "full"],
+    "bandwidth": [1, 2, 4, 6, 8]
+}

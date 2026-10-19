@@ -1,0 +1,12 @@
+# Tested with Python 3.12.
+# Quantum kernel simulation (experiments/QK_computation). Note: jax >= 0.8 is not compatible with pennylane 0.45.
+pennylane==0.45.1
+jax==0.7.2
+jaxlib==0.7.2
+# Data generation, evaluation, classical baseline and figures
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2

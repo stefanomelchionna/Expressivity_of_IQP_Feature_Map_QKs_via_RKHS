@@ -1,0 +1,9 @@
+{
+    "output_path": "Simulated_Data/AD_multimodal",
+    "n_samples": [100, 250, 500, 750, 1000, 1500],
+    "n_qubits": [2, 4, 6],
+    "n_clusters": [2, 4, 8],
+    "n_repeats": [1, 2, 3],
+    "entanglement": ["linear", "full"],
+    "bandwidth": [0.25, 0.5, 1, 1.5, 2]
+}

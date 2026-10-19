@@ -1,0 +1,9 @@
+{
+    "Data_dir": "Simulated_Data/AD_periodic",
+    "n_samples": [250, 500, 1000],
+    "n_qubits": [2, 4, 6],
+    "oscillations": [1, 2, 4, 6, 8],
+    "n_repeats": [1, 2, 3],
+    "entanglement": ["full", "linear"],
+    "bandwidth": [1, 2, 4, 6, 8]
+}

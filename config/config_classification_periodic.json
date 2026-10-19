@@ -1,0 +1,7 @@
+{
+  "Data_dir": "Simulated_Data/Classification_periodic",
+  "oscillations": [1, 2, 4, 6, 8],
+  "n_qubits": [2, 4, 6],
+  "n_samples_train": [1000],
+  "n_samples_test": 500
+}

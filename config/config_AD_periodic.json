@@ -1,0 +1,6 @@
+{
+  "Data_dir": "Simulated_Data/AD_periodic",
+  "oscillations": [1, 2, 4, 6, 8],
+  "n_qubits": [2, 4, 6],
+  "n_samples": [1000]
+}

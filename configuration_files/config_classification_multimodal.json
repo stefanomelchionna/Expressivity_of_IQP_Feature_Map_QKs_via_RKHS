@@ -1,0 +1,10 @@
+{
+    "output_path": "Simulated_Data/Classification_multimodal",
+    "n_samples": [250, 500, 750, 1000, 1500],
+    "n_samples_test": 500,
+    "n_qubits": [2, 4, 6],
+    "n_clusters": [2, 4, 8],
+    "n_repeats": [1, 2, 3],
+    "entanglement": ["linear", "full"],
+    "bandwidth": [0.25, 0.5, 1, 1.5, 2]
+}
